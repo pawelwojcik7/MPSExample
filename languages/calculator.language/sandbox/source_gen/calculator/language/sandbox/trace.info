@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/5351203823916750322:jetbrains.mps.baseLanguage.structure.TryUniversalStatement" />
+  <root nodeRef="r:fe38bccb-0d55-4001-a9fb-3180494b4743(calculator.language.sandbox)/6968035171287420702">
+    <file name="MyCalculator.java">
+      <node id="6968035171287431356" at="15,0,16,0" concept="2" trace="inputField_a" />
+      <node id="6968035171287431358" at="16,0,17,0" concept="2" trace="inputField_b" />
+      <node id="6968035171287431361" at="17,0,18,0" concept="2" trace="inputField_c" />
+      <node id="6968035171288287137" at="18,0,19,0" concept="2" trace="outputField_a" />
+      <node id="6968035171287420702" at="22,48,23,15" concept="1" />
+      <node id="6968035171287420702" at="27,48,28,15" concept="1" />
+      <node id="6968035171287420702" at="32,49,33,15" concept="1" />
+      <node id="6968035171287420702" at="37,25,38,29" concept="1" />
+      <node id="6968035171287420702" at="38,29,39,36" concept="1" />
+      <node id="6968035171287420702" at="39,36,40,61" concept="1" />
+      <node id="6968035171287420702" at="40,61,41,29" concept="1" />
+      <node id="6968035171287420702" at="41,29,42,22" concept="1" />
+      <node id="6968035171287420702" at="42,22,43,61" concept="1" />
+      <node id="6968035171287420702" at="43,61,44,30" concept="1" />
+      <node id="6968035171287420702" at="44,30,45,22" concept="1" />
+      <node id="6968035171287420702" at="45,22,46,61" concept="1" />
+      <node id="6968035171287420702" at="46,61,47,29" concept="1" />
+      <node id="6968035171287420702" at="47,29,48,22" concept="1" />
+      <node id="6968035171287420702" at="48,22,49,30" concept="1" />
+      <node id="6968035171287420702" at="49,30,50,23" concept="1" />
+      <node id="6968035171287420702" at="50,23,51,13" concept="1" />
+      <node id="6968035171287420702" at="51,13,52,51" concept="1" />
+      <node id="6968035171287420702" at="52,51,53,11" concept="1" />
+      <node id="6968035171287420702" at="53,11,54,21" concept="1" />
+      <node id="6968035171287431356" at="56,24,57,16" concept="4" />
+      <node id="6968035171287431358" at="57,16,58,16" concept="4" />
+      <node id="6968035171287431361" at="58,16,59,16" concept="4" />
+      <node id="6968035171287431356" at="60,9,61,53" concept="1" />
+      <node id="6968035171287431358" at="61,53,62,53" concept="1" />
+      <node id="6968035171287431361" at="62,53,63,53" concept="1" />
+      <node id="6968035171287420702" at="64,39,65,26" concept="1" />
+      <node id="6968035171288287137" at="66,5,67,50" concept="1" />
+      <node id="6968035171287420702" at="72,25,73,27" concept="1" />
+      <node id="6968035171287420702" at="21,0,25,0" concept="3" trace="insertUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="6968035171287420702" at="26,0,30,0" concept="3" trace="removeUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="6968035171287420702" at="31,0,35,0" concept="3" trace="changedUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="6968035171287420702" at="71,0,75,0" concept="3" trace="run#()V" />
+      <node id="6968035171287420702" at="69,42,75,7" concept="1" />
+      <node id="6968035171287420702" at="59,16,66,5" concept="6" />
+      <node id="6968035171287420702" at="69,0,77,0" concept="5" trace="main#([Ljava/lang/String;)V" />
+      <node id="6968035171287420702" at="56,0,69,0" concept="3" trace="update#()V" />
+      <node id="6968035171287420702" at="20,0,36,0" concept="2" trace="listener" />
+      <node id="6968035171287420702" at="37,0,56,0" concept="0" trace="MyCalculator#()V" />
+      <scope id="6968035171287420702" at="22,48,23,15" />
+      <scope id="6968035171287420702" at="27,48,28,15" />
+      <scope id="6968035171287420702" at="32,49,33,15" />
+      <scope id="6968035171287420702" at="64,39,65,26" />
+      <scope id="6968035171287420702" at="72,25,73,27" />
+      <scope id="6968035171287420702" at="64,5,66,5">
+        <var name="e" id="6968035171287420702" />
+      </scope>
+      <scope id="6968035171287420702" at="60,9,63,53" />
+      <scope id="6968035171287420702" at="21,0,25,0">
+        <var name="p1" id="6968035171287420702" />
+      </scope>
+      <scope id="6968035171287420702" at="26,0,30,0">
+        <var name="p1" id="6968035171287420702" />
+      </scope>
+      <scope id="6968035171287420702" at="31,0,35,0">
+        <var name="p1" id="6968035171287420702" />
+      </scope>
+      <scope id="6968035171287420702" at="71,0,75,0" />
+      <scope id="6968035171287420702" at="69,42,75,7" />
+      <scope id="6968035171287420702" at="69,0,77,0">
+        <var name="args" id="6968035171287420702" />
+      </scope>
+      <scope id="6968035171287420702" at="56,24,67,50">
+        <var name="i_a" id="6968035171287431356" />
+        <var name="i_b" id="6968035171287431358" />
+        <var name="i_c" id="6968035171287431361" />
+      </scope>
+      <scope id="6968035171287420702" at="56,0,69,0" />
+      <scope id="6968035171287420702" at="37,25,54,21" />
+      <scope id="6968035171287420702" at="37,0,56,0" />
+      <unit id="6968035171287420702" at="70,35,75,5" name="calculator.language.sandbox.MyCalculator$2" />
+      <unit id="6968035171287420702" at="20,42,35,3" name="calculator.language.sandbox.MyCalculator$1" />
+      <unit id="6968035171287420702" at="13,0,78,0" name="calculator.language.sandbox.MyCalculator" />
+    </file>
+  </root>
+</debug-info>
+

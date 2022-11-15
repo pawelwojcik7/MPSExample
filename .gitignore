@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/calculator.language/classes_gen/
+/languages/calculator.language/generator/classes_gen/
+/languages/calculator.language/sandbox/classes_gen/
